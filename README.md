@@ -1,3 +1,16 @@
-#Project Description
+# To-Do App
 
-A simple and responsive To-Do application built with HTML, CSS, and JavaScript. Features include adding, completing, and deleting tasks
+A simple To-Do application built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Add new tasks
+- Mark tasks as complete
+- Delete tasks
+- Responsive design
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/todo-app.git
